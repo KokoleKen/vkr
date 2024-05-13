@@ -1,0 +1,33 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Анализ предметной области}{5}{section.1}%
+\contentsline {subsection}{\numberline {1.1}История создания трёхмерной компьютерной графики}{5}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Основные принципы работы трёхмерной графики}{5}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Работа с OpenGL}{6}{subsection.1.3}%
+\contentsline {section}{\numberline {2}Техническое задание}{8}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Основание для разработки}{8}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Цель и назначение разработки}{8}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Требования к программной системе}{8}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Требования к данным программно-информационной системы}{8}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}Функциональные требования к программной системе}{9}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.3}Требования к графическому интерфейсу программы}{10}{subsubsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.4}Моделирование вариантов использования}{11}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Нефункциональные требования к программной системе}{12}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Требования к оформлению документации}{12}{subsection.2.6}%
+\contentsline {section}{\numberline {3}Технический проект}{13}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Общая характеристика организации решения задачи}{13}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Обоснование выбора технологии проектирования}{13}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Описание используемых технологий и языков программирования}{14}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Язык программирования C\#}{14}{subsubsection.3.3.1}%
+\contentsline {paragraph}{\numberline {3.3.1.1}Достоинства языка C\#}{14}{paragraph.3.3.1.1}%
+\contentsline {paragraph}{\numberline {3.3.1.2}Недостатки языка C\#}{14}{paragraph.3.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.3.2}Спецификация OpenGL 4.6}{14}{subsubsection.3.3.2}%
+\contentsline {paragraph}{\numberline {3.3.2.1}Достоинства спецификации OpenGL}{15}{paragraph.3.3.2.1}%
+\contentsline {paragraph}{\numberline {3.3.2.2}Недостатки спецификации OpenGL}{15}{paragraph.3.3.2.2}%
+\contentsline {subsection}{\numberline {3.4}Диаграмма классов и компоненты программы}{16}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Описание работы парсера}{18}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Проектирование пользовательского интерфейса}{20}{subsection.3.6}%
+\contentsline {subsubsection}{\numberline {3.6.1}Главное окно программы}{20}{subsubsection.3.6.1}%
+\contentsline {subsubsection}{\numberline {3.6.2}Окно инспектора}{21}{subsubsection.3.6.2}%
+\contentsline {subsubsection}{\numberline {3.6.3}Вкладки окон инспектора}{21}{subsubsection.3.6.3}%
+\contentsline {subsubsection}{\numberline {3.6.4}Активное меню вкладки инспектора}{22}{subsubsection.3.6.4}%
+\contentsline {section}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ}{22}{subsubsection.3.6.4}%
