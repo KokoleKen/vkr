@@ -3,100 +3,100 @@
 \babel@toc {russian}{}\relax 
 \babel@toc {english}{}\relax 
 \babel@toc {russian}{}\relax 
-\contentsline {section}{ВВЕДЕНИЕ}{12}{section*.5}%
-\contentsline {section}{\numberline {1}Анализ предметной области}{15}{section.1}%
-\contentsline {subsection}{\numberline {1.1}История создания трёхмерной компьютерной графики}{15}{subsection.1.1}%
-\contentsline {subsection}{\numberline {1.2}Основные принципы работы трёхмерной графики}{15}{subsection.1.2}%
-\contentsline {subsection}{\numberline {1.3}Работа с OpenGL}{16}{subsection.1.3}%
-\contentsline {subsubsection}{\numberline {1.3.1}Функции и операторы OpenGL}{17}{subsubsection.1.3.1}%
-\contentsline {subsubsection}{\numberline {1.3.2}Интерфейс OpenGL}{18}{subsubsection.1.3.2}%
-\contentsline {subsubsection}{\numberline {1.3.3}Архитектура OpenGL}{20}{subsubsection.1.3.3}%
-\contentsline {subsubsection}{\numberline {1.3.4}Работа с OpenTK}{22}{subsubsection.1.3.4}%
-\contentsline {subsection}{\numberline {1.4}Математика освещения в трёхмерной графике}{23}{subsection.1.4}%
-\contentsline {subsubsection}{\numberline {1.4.1}Рассеянный свет}{24}{subsubsection.1.4.1}%
-\contentsline {subsubsection}{\numberline {1.4.2}Общий свет}{25}{subsubsection.1.4.2}%
-\contentsline {subsubsection}{\numberline {1.4.3}Отраженный свет}{26}{subsubsection.1.4.3}%
-\contentsline {subsubsection}{\numberline {1.4.4}Испускаемый свет}{27}{subsubsection.1.4.4}%
-\contentsline {subsection}{\numberline {1.5}Аффинные преобразования трёхмерного пространства}{27}{subsection.1.5}%
-\contentsline {subsubsection}{\numberline {1.5.1}Параллельный перенос}{29}{subsubsection.1.5.1}%
-\contentsline {subsubsection}{\numberline {1.5.2}Поворот вокруг оси}{29}{subsubsection.1.5.2}%
-\contentsline {subsubsection}{\numberline {1.5.3}Масштабирование}{30}{subsubsection.1.5.3}%
-\contentsline {section}{\numberline {2}Техническое задание}{32}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Основание для разработки}{32}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Цель и назначение разработки}{32}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}Требования к программной системе}{32}{subsection.2.3}%
-\contentsline {subsubsection}{\numberline {2.3.1}Требования к данным программно-информационной системы}{32}{subsubsection.2.3.1}%
-\contentsline {subsubsection}{\numberline {2.3.2}Функциональные требования к программной системе}{33}{subsubsection.2.3.2}%
-\contentsline {subsubsection}{\numberline {2.3.3}Требования к графическому интерфейсу программы}{35}{subsubsection.2.3.3}%
-\contentsline {subsection}{\numberline {2.4}Моделирование вариантов использования}{36}{subsection.2.4}%
-\contentsline {subsubsection}{\numberline {2.4.1}Вариант использования: Визуализация данных на экране}{37}{subsubsection.2.4.1}%
-\contentsline {subsubsection}{\numberline {2.4.2}Вариант использования: Преобразование модели объекта}{38}{subsubsection.2.4.2}%
-\contentsline {subsubsection}{\numberline {2.4.3}Вариант использования: Создание нового объекта}{39}{subsubsection.2.4.3}%
-\contentsline {subsubsection}{\numberline {2.4.4}Вариант использования: Загрузка данных из файловой системы}{41}{subsubsection.2.4.4}%
-\contentsline {subsubsection}{\numberline {2.4.5}Вариант использования: Изменение параметров света}{41}{subsubsection.2.4.5}%
-\contentsline {subsubsection}{\numberline {2.4.6}Вариант использования: Управление виртуальной камерой}{42}{subsubsection.2.4.6}%
-\contentsline {subsection}{\numberline {2.5}Нефункциональные требования к программной системе}{43}{subsection.2.5}%
-\contentsline {subsection}{\numberline {2.6}Требования к оформлению документации}{43}{subsection.2.6}%
-\contentsline {section}{\numberline {3}Технический проект}{44}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Общая характеристика организации решения задачи}{44}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Обоснование выбора технологии проектирования}{44}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}Описание используемых технологий и языков программирования}{45}{subsection.3.3}%
-\contentsline {subsubsection}{\numberline {3.3.1}Язык программирования C\#}{45}{subsubsection.3.3.1}%
-\contentsline {paragraph}{\numberline {3.3.1.1}Особенности языка C\#}{45}{paragraph.3.3.1.1}%
-\contentsline {subsubsection}{\numberline {3.3.2}Спецификация OpenGL 4.6}{45}{subsubsection.3.3.2}%
-\contentsline {paragraph}{\numberline {3.3.2.1}Особенности спецификации OpenGL}{46}{paragraph.3.3.2.1}%
-\contentsline {subsection}{\numberline {3.4}Диаграмма классов и компонентов программы}{46}{subsection.3.4}%
-\contentsline {subsubsection}{\numberline {3.4.1}Диаграмма классов}{46}{subsubsection.3.4.1}%
-\contentsline {paragraph}{\numberline {3.4.1.1}Класс Model}{49}{paragraph.3.4.1.1}%
-\contentsline {paragraph}{\numberline {3.4.1.2}Класс Texture}{49}{paragraph.3.4.1.2}%
-\contentsline {paragraph}{\numberline {3.4.1.3}Класс Scene}{49}{paragraph.3.4.1.3}%
-\contentsline {paragraph}{\numberline {3.4.1.4}Класс Shader}{49}{paragraph.3.4.1.4}%
-\contentsline {paragraph}{\numberline {3.4.1.5}Класс Camera}{50}{paragraph.3.4.1.5}%
-\contentsline {paragraph}{\numberline {3.4.1.6}Класс Model}{50}{paragraph.3.4.1.6}%
-\contentsline {paragraph}{\numberline {3.4.1.7}Класс Inspector}{50}{paragraph.3.4.1.7}%
-\contentsline {paragraph}{\numberline {3.4.1.8}Класс GameWindow}{50}{paragraph.3.4.1.8}%
-\contentsline {subsubsection}{\numberline {3.4.2}Диаграмма компонентов}{50}{subsubsection.3.4.2}%
-\contentsline {paragraph}{\numberline {3.4.2.1}Компонент Файл OBJ}{52}{paragraph.3.4.2.1}%
-\contentsline {paragraph}{\numberline {3.4.2.2}Компонент Парсер}{52}{paragraph.3.4.2.2}%
-\contentsline {paragraph}{\numberline {3.4.2.3}Компонент Модель}{52}{paragraph.3.4.2.3}%
-\contentsline {paragraph}{\numberline {3.4.2.4}Компонент Файл изображения текстуры}{52}{paragraph.3.4.2.4}%
-\contentsline {paragraph}{\numberline {3.4.2.5}Компонент Текстура}{53}{paragraph.3.4.2.5}%
-\contentsline {paragraph}{\numberline {3.4.2.6}Компонент Файл scene.data}{53}{paragraph.3.4.2.6}%
-\contentsline {paragraph}{\numberline {3.4.2.7}Компонент Сцена}{53}{paragraph.3.4.2.7}%
-\contentsline {paragraph}{\numberline {3.4.2.8}Компонент Инспектор}{53}{paragraph.3.4.2.8}%
-\contentsline {paragraph}{\numberline {3.4.2.9}Компонент Камера}{54}{paragraph.3.4.2.9}%
-\contentsline {paragraph}{\numberline {3.4.2.10}Компонент Освещение}{54}{paragraph.3.4.2.10}%
-\contentsline {paragraph}{\numberline {3.4.2.11}Компонент Шейдеров}{54}{paragraph.3.4.2.11}%
-\contentsline {paragraph}{\numberline {3.4.2.12}Модуль Графический визуализатор}{54}{paragraph.3.4.2.12}%
-\contentsline {paragraph}{\numberline {3.4.2.13}Компонент Программа}{55}{paragraph.3.4.2.13}%
-\contentsline {subsection}{\numberline {3.5}Описание файлов трёхмерных данных формата OBJ}{55}{subsection.3.5}%
-\contentsline {subsection}{\numberline {3.6}Описание работы парсера}{56}{subsection.3.6}%
-\contentsline {subsection}{\numberline {3.7}Система хранения данных внутри проекта}{58}{subsection.3.7}%
-\contentsline {subsubsection}{\numberline {3.7.1}Файл Resource.data}{58}{subsubsection.3.7.1}%
-\contentsline {subsubsection}{\numberline {3.7.2}Файл Objects.data}{59}{subsubsection.3.7.2}%
-\contentsline {subsection}{\numberline {3.8}Проектирование пользовательского интерфейса}{59}{subsection.3.8}%
-\contentsline {subsubsection}{\numberline {3.8.1}Главное окно программы}{60}{subsubsection.3.8.1}%
-\contentsline {subsubsection}{\numberline {3.8.2}Окно инспектора}{60}{subsubsection.3.8.2}%
-\contentsline {subsubsection}{\numberline {3.8.3}Вкладки окон инспектора}{61}{subsubsection.3.8.3}%
-\contentsline {subsubsection}{\numberline {3.8.4}Активное меню вкладки инспектора}{61}{subsubsection.3.8.4}%
-\contentsline {paragraph}{\numberline {3.8.4.1}Вкладка "<Объект">}{61}{paragraph.3.8.4.1}%
-\contentsline {paragraph}{\numberline {3.8.4.2}Вкладка "<Инспектор">}{61}{paragraph.3.8.4.2}%
-\contentsline {paragraph}{\numberline {3.8.4.3}Вкладка "<Модели и текстуры">}{61}{paragraph.3.8.4.3}%
-\contentsline {paragraph}{\numberline {3.8.4.4}Вкладка "<Свет">}{62}{paragraph.3.8.4.4}%
-\contentsline {section}{\numberline {4}Рабочий проект}{63}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Классы, использованные при разработке программной системы}{63}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Системное тестирование разработанной программной системы}{69}{subsection.4.2}%
-\contentsline {subsubsection}{\numberline {4.2.1}Тестовый случай: Инициализация ресурсов программы}{69}{subsubsection.4.2.1}%
-\contentsline {subsubsection}{\numberline {4.2.2}Тестовый случай: Визуализация объекта на сцене}{73}{subsubsection.4.2.2}%
-\contentsline {subsubsection}{\numberline {4.2.3}Тестовый случай: Настройка освещения}{74}{subsubsection.4.2.3}%
-\contentsline {subsubsection}{\numberline {4.2.4}Тестовый случай: Трансформация объекта}{77}{subsubsection.4.2.4}%
-\contentsline {subsubsection}{\numberline {4.2.5}Тестовый случай: Импортирование ресурсов в проект}{79}{subsubsection.4.2.5}%
-\contentsline {subsubsection}{\numberline {4.2.6}Тестовый случай: Удаление ресурсов из проекта}{82}{subsubsection.4.2.6}%
-\contentsline {subsubsection}{\numberline {4.2.7}Тестовый случай: Создание нового объекта}{85}{subsubsection.4.2.7}%
-\contentsline {section}{ЗАКЛЮЧЕНИЕ}{88}{section*.55}%
-\contentsline {section}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ}{88}{Item.19}%
-\contentsline {section}{ПРИЛОЖЕНИЕ А\ Представление графического материала}{91}{section*.57}%
-\contentsline {section}{ПРИЛОЖЕНИЕ Б\ Пример содержания OBJ-файла}{101}{section*.67}%
-\contentsline {section}{ПРИЛОЖЕНИЕ В\ Пример содержания файлов, описывающие хранимые ресурсы проекта}{103}{section*.68}%
-\contentsline {section}{ПРИЛОЖЕНИЕ Г\ Листинг фрагмента программы парсера}{104}{section*.69}%
-\contentsline {section}{На отдельных листах (CD-RW в прикрепленном конверте)}{110}{lstnumber.-4.262}%
+\contentsline {section}{ВВЕДЕНИЕ}{8}{section*.5}%
+\contentsline {section}{\numberline {1}Анализ предметной области}{11}{section.1}%
+\contentsline {subsection}{\numberline {1.1}История создания трёхмерной компьютерной графики}{11}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Основные принципы работы трёхмерной графики}{11}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Работа с OpenGL}{12}{subsection.1.3}%
+\contentsline {subsubsection}{\numberline {1.3.1}Функции и операторы OpenGL}{13}{subsubsection.1.3.1}%
+\contentsline {subsubsection}{\numberline {1.3.2}Интерфейс OpenGL}{14}{subsubsection.1.3.2}%
+\contentsline {subsubsection}{\numberline {1.3.3}Архитектура OpenGL}{16}{subsubsection.1.3.3}%
+\contentsline {subsubsection}{\numberline {1.3.4}Работа с OpenTK}{18}{subsubsection.1.3.4}%
+\contentsline {subsection}{\numberline {1.4}Математика освещения в трёхмерной графике}{19}{subsection.1.4}%
+\contentsline {subsubsection}{\numberline {1.4.1}Рассеянный свет}{20}{subsubsection.1.4.1}%
+\contentsline {subsubsection}{\numberline {1.4.2}Общий свет}{21}{subsubsection.1.4.2}%
+\contentsline {subsubsection}{\numberline {1.4.3}Отраженный свет}{22}{subsubsection.1.4.3}%
+\contentsline {subsubsection}{\numberline {1.4.4}Испускаемый свет}{23}{subsubsection.1.4.4}%
+\contentsline {subsection}{\numberline {1.5}Аффинные преобразования трёхмерного пространства}{23}{subsection.1.5}%
+\contentsline {subsubsection}{\numberline {1.5.1}Параллельный перенос}{25}{subsubsection.1.5.1}%
+\contentsline {subsubsection}{\numberline {1.5.2}Поворот вокруг оси}{25}{subsubsection.1.5.2}%
+\contentsline {subsubsection}{\numberline {1.5.3}Масштабирование}{26}{subsubsection.1.5.3}%
+\contentsline {section}{\numberline {2}Техническое задание}{28}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Основание для разработки}{28}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Цель и назначение разработки}{28}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Требования к программной системе}{28}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Требования к данным программно-информационной системы}{28}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}Функциональные требования к программной системе}{29}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.3}Требования к графическому интерфейсу программы}{31}{subsubsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.4}Моделирование вариантов использования}{32}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.1}Вариант использования: Визуализация данных на экране}{33}{subsubsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.4.2}Вариант использования: Преобразование модели объекта}{34}{subsubsection.2.4.2}%
+\contentsline {subsubsection}{\numberline {2.4.3}Вариант использования: Создание нового объекта}{35}{subsubsection.2.4.3}%
+\contentsline {subsubsection}{\numberline {2.4.4}Вариант использования: Загрузка данных из файловой системы}{37}{subsubsection.2.4.4}%
+\contentsline {subsubsection}{\numberline {2.4.5}Вариант использования: Изменение параметров света}{37}{subsubsection.2.4.5}%
+\contentsline {subsubsection}{\numberline {2.4.6}Вариант использования: Управление виртуальной камерой}{38}{subsubsection.2.4.6}%
+\contentsline {subsection}{\numberline {2.5}Нефункциональные требования к программной системе}{39}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Требования к оформлению документации}{39}{subsection.2.6}%
+\contentsline {section}{\numberline {3}Технический проект}{40}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Общая характеристика организации решения задачи}{40}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Обоснование выбора технологии проектирования}{40}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Описание используемых технологий и языков программирования}{41}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Язык программирования C\#}{41}{subsubsection.3.3.1}%
+\contentsline {paragraph}{\numberline {3.3.1.1}Особенности языка C\#}{41}{paragraph.3.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}Спецификация OpenGL 4.6}{41}{subsubsection.3.3.2}%
+\contentsline {paragraph}{\numberline {3.3.2.1}Особенности спецификации OpenGL}{42}{paragraph.3.3.2.1}%
+\contentsline {subsection}{\numberline {3.4}Диаграмма классов и компонентов программы}{42}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}Диаграмма классов}{42}{subsubsection.3.4.1}%
+\contentsline {paragraph}{\numberline {3.4.1.1}Класс Model}{45}{paragraph.3.4.1.1}%
+\contentsline {paragraph}{\numberline {3.4.1.2}Класс Texture}{45}{paragraph.3.4.1.2}%
+\contentsline {paragraph}{\numberline {3.4.1.3}Класс Scene}{45}{paragraph.3.4.1.3}%
+\contentsline {paragraph}{\numberline {3.4.1.4}Класс Shader}{45}{paragraph.3.4.1.4}%
+\contentsline {paragraph}{\numberline {3.4.1.5}Класс Camera}{46}{paragraph.3.4.1.5}%
+\contentsline {paragraph}{\numberline {3.4.1.6}Класс Model}{46}{paragraph.3.4.1.6}%
+\contentsline {paragraph}{\numberline {3.4.1.7}Класс Inspector}{46}{paragraph.3.4.1.7}%
+\contentsline {paragraph}{\numberline {3.4.1.8}Класс GameWindow}{46}{paragraph.3.4.1.8}%
+\contentsline {subsubsection}{\numberline {3.4.2}Диаграмма компонентов}{46}{subsubsection.3.4.2}%
+\contentsline {paragraph}{\numberline {3.4.2.1}Компонент Файл OBJ}{48}{paragraph.3.4.2.1}%
+\contentsline {paragraph}{\numberline {3.4.2.2}Компонент Парсер}{48}{paragraph.3.4.2.2}%
+\contentsline {paragraph}{\numberline {3.4.2.3}Компонент Модель}{48}{paragraph.3.4.2.3}%
+\contentsline {paragraph}{\numberline {3.4.2.4}Компонент Файл изображения текстуры}{48}{paragraph.3.4.2.4}%
+\contentsline {paragraph}{\numberline {3.4.2.5}Компонент Текстура}{49}{paragraph.3.4.2.5}%
+\contentsline {paragraph}{\numberline {3.4.2.6}Компонент Файл scene.data}{49}{paragraph.3.4.2.6}%
+\contentsline {paragraph}{\numberline {3.4.2.7}Компонент Сцена}{49}{paragraph.3.4.2.7}%
+\contentsline {paragraph}{\numberline {3.4.2.8}Компонент Инспектор}{49}{paragraph.3.4.2.8}%
+\contentsline {paragraph}{\numberline {3.4.2.9}Компонент Камера}{50}{paragraph.3.4.2.9}%
+\contentsline {paragraph}{\numberline {3.4.2.10}Компонент Освещение}{50}{paragraph.3.4.2.10}%
+\contentsline {paragraph}{\numberline {3.4.2.11}Компонент Шейдеров}{50}{paragraph.3.4.2.11}%
+\contentsline {paragraph}{\numberline {3.4.2.12}Модуль Графический визуализатор}{50}{paragraph.3.4.2.12}%
+\contentsline {paragraph}{\numberline {3.4.2.13}Компонент Программа}{51}{paragraph.3.4.2.13}%
+\contentsline {subsection}{\numberline {3.5}Описание файлов трёхмерных данных формата OBJ}{51}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Описание работы парсера}{52}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}Система хранения данных внутри проекта}{54}{subsection.3.7}%
+\contentsline {subsubsection}{\numberline {3.7.1}Файл Resource.data}{54}{subsubsection.3.7.1}%
+\contentsline {subsubsection}{\numberline {3.7.2}Файл Objects.data}{55}{subsubsection.3.7.2}%
+\contentsline {subsection}{\numberline {3.8}Проектирование пользовательского интерфейса}{55}{subsection.3.8}%
+\contentsline {subsubsection}{\numberline {3.8.1}Главное окно программы}{56}{subsubsection.3.8.1}%
+\contentsline {subsubsection}{\numberline {3.8.2}Окно инспектора}{56}{subsubsection.3.8.2}%
+\contentsline {subsubsection}{\numberline {3.8.3}Вкладки окон инспектора}{57}{subsubsection.3.8.3}%
+\contentsline {subsubsection}{\numberline {3.8.4}Активное меню вкладки инспектора}{57}{subsubsection.3.8.4}%
+\contentsline {paragraph}{\numberline {3.8.4.1}Вкладка "<Объект">}{57}{paragraph.3.8.4.1}%
+\contentsline {paragraph}{\numberline {3.8.4.2}Вкладка "<Инспектор">}{57}{paragraph.3.8.4.2}%
+\contentsline {paragraph}{\numberline {3.8.4.3}Вкладка "<Модели и текстуры">}{57}{paragraph.3.8.4.3}%
+\contentsline {paragraph}{\numberline {3.8.4.4}Вкладка "<Свет">}{58}{paragraph.3.8.4.4}%
+\contentsline {section}{\numberline {4}Рабочий проект}{59}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Классы, использованные при разработке программной системы}{59}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Системное тестирование разработанной программной системы}{65}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}Тестовый случай: Инициализация ресурсов программы}{65}{subsubsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.2}Тестовый случай: Визуализация объекта на сцене}{69}{subsubsection.4.2.2}%
+\contentsline {subsubsection}{\numberline {4.2.3}Тестовый случай: Настройка освещения}{70}{subsubsection.4.2.3}%
+\contentsline {subsubsection}{\numberline {4.2.4}Тестовый случай: Трансформация объекта}{73}{subsubsection.4.2.4}%
+\contentsline {subsubsection}{\numberline {4.2.5}Тестовый случай: Импортирование ресурсов в проект}{75}{subsubsection.4.2.5}%
+\contentsline {subsubsection}{\numberline {4.2.6}Тестовый случай: Удаление ресурсов из проекта}{78}{subsubsection.4.2.6}%
+\contentsline {subsubsection}{\numberline {4.2.7}Тестовый случай: Создание нового объекта}{81}{subsubsection.4.2.7}%
+\contentsline {section}{ЗАКЛЮЧЕНИЕ}{84}{section*.55}%
+\contentsline {section}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ}{84}{Item.19}%
+\contentsline {section}{ПРИЛОЖЕНИЕ А\ Представление графического материала}{87}{section*.57}%
+\contentsline {section}{ПРИЛОЖЕНИЕ Б\ Пример содержания OBJ-файла}{97}{section*.67}%
+\contentsline {section}{ПРИЛОЖЕНИЕ В\ Пример содержания файлов, описывающие хранимые ресурсы проекта}{99}{section*.68}%
+\contentsline {section}{ПРИЛОЖЕНИЕ Г\ Листинг фрагмента программы парсера}{100}{section*.69}%
+\contentsline {section}{На отдельных листах (CD-RW в прикрепленном конверте)}{106}{lstnumber.-4.262}%
