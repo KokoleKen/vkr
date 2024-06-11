@@ -1,0 +1,39 @@
+{
+  "version": 2,
+  "dgSpecHash": "7bfx0pRpaNwlmGRmjmkvWmKzWq76Iw8nDVxC/a3czHxt943K/vTUo4Hp6QotQHU+F69PcSqqUuW2Z7V7PIDy/Q==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\Test_Engine_3\\Test_Engine_3\\Test_Engine_3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nikolay Snatenkov\\.nuget\\packages\\opentk\\4.7.5\\opentk.4.7.5.nupkg.sha512",
+    "C:\\Users\\Nikolay Snatenkov\\.nuget\\packages\\opentk.compute\\4.7.5\\opentk.compute.4.7.5.nupkg.sha512",
+    "C:\\Users\\Nikolay Snatenkov\\.nuget\\packages\\opentk.core\\4.7.5\\opentk.core.4.7.5.nupkg.sha512",
+    "C:\\Users\\Nikolay Snatenkov\\.nuget\\packages\\opentk.glcontrol\\3.3.3\\opentk.glcontrol.3.3.3.nupkg.sha512",
+    "C:\\Users\\Nikolay Snatenkov\\.nuget\\packages\\opentk.graphics\\4.7.5\\opentk.graphics.4.7.5.nupkg.sha512",
+    "C:\\Users\\Nikolay Snatenkov\\.nuget\\packages\\opentk.input\\4.7.5\\opentk.input.4.7.5.nupkg.sha512",
+    "C:\\Users\\Nikolay Snatenkov\\.nuget\\packages\\opentk.mathematics\\4.7.5\\opentk.mathematics.4.7.5.nupkg.sha512",
+    "C:\\Users\\Nikolay Snatenkov\\.nuget\\packages\\opentk.openal\\4.7.5\\opentk.openal.4.7.5.nupkg.sha512",
+    "C:\\Users\\Nikolay Snatenkov\\.nuget\\packages\\opentk.redist.glfw\\3.3.8.30\\opentk.redist.glfw.3.3.8.30.nupkg.sha512",
+    "C:\\Users\\Nikolay Snatenkov\\.nuget\\packages\\opentk.windowing.common\\4.7.5\\opentk.windowing.common.4.7.5.nupkg.sha512",
+    "C:\\Users\\Nikolay Snatenkov\\.nuget\\packages\\opentk.windowing.desktop\\4.7.5\\opentk.windowing.desktop.4.7.5.nupkg.sha512",
+    "C:\\Users\\Nikolay Snatenkov\\.nuget\\packages\\opentk.windowing.graphicslibraryframework\\4.7.5\\opentk.windowing.graphicslibraryframework.4.7.5.nupkg.sha512",
+    "C:\\Users\\Nikolay Snatenkov\\.nuget\\packages\\opentk.winforms\\4.0.0-pre.6\\opentk.winforms.4.0.0-pre.6.nupkg.sha512",
+    "C:\\Users\\Nikolay Snatenkov\\.nuget\\packages\\stbimagesharp\\2.27.13\\stbimagesharp.2.27.13.nupkg.sha512",
+    "C:\\Users\\Nikolay Snatenkov\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\Nikolay Snatenkov\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Nikolay Snatenkov\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Nikolay Snatenkov\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Nikolay Snatenkov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"OpenTK.GLControl 3.3.3\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\", а не целевой платформы проекта \"net6.0-windows7.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "OpenTK.GLControl",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
