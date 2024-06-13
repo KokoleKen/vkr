@@ -93,10 +93,10 @@
 \contentsline {subsubsection}{\numberline {4.2.5}Тестовый случай: Импортирование ресурсов в проект}{79}{subsubsection.4.2.5}%
 \contentsline {subsubsection}{\numberline {4.2.6}Тестовый случай: Удаление ресурсов из проекта}{82}{subsubsection.4.2.6}%
 \contentsline {subsubsection}{\numberline {4.2.7}Тестовый случай: Создание нового объекта}{85}{subsubsection.4.2.7}%
-\contentsline {section}{ЗАКЛЮЧЕНИЕ}{88}{section*.55}%
+\contentsline {section}{ЗАКЛЮЧЕНИЕ}{88}{section*.45}%
 \contentsline {section}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ}{88}{Item.19}%
-\contentsline {section}{ПРИЛОЖЕНИЕ А\ Представление графического материала}{91}{section*.57}%
-\contentsline {section}{ПРИЛОЖЕНИЕ Б\ Пример содержания OBJ-файла}{101}{section*.67}%
-\contentsline {section}{ПРИЛОЖЕНИЕ В\ Пример содержания файлов, описывающие хранимые ресурсы проекта}{103}{section*.68}%
-\contentsline {section}{ПРИЛОЖЕНИЕ Г\ Листинг фрагмента программы парсера}{104}{section*.69}%
+\contentsline {section}{ПРИЛОЖЕНИЕ А\ Представление графического материала}{91}{section*.47}%
+\contentsline {section}{ПРИЛОЖЕНИЕ Б\ Пример содержания OBJ-файла}{101}{section*.57}%
+\contentsline {section}{ПРИЛОЖЕНИЕ В\ Пример содержания файлов, описывающие хранимые ресурсы проекта}{103}{section*.58}%
+\contentsline {section}{ПРИЛОЖЕНИЕ Г\ Листинг фрагмента программы парсера}{104}{section*.59}%
 \contentsline {section}{На отдельных листах (CD-RW в прикрепленном конверте)}{110}{lstnumber.-4.262}%
