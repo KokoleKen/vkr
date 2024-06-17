@@ -45,8 +45,8 @@
 \contentsline {paragraph}{\numberline {3.3.1.1}Особенности языка C\#}{45}{paragraph.3.3.1.1}%
 \contentsline {subsubsection}{\numberline {3.3.2}Спецификация OpenGL 4.6}{45}{subsubsection.3.3.2}%
 \contentsline {paragraph}{\numberline {3.3.2.1}Особенности спецификации OpenGL}{46}{paragraph.3.3.2.1}%
-\contentsline {subsection}{\numberline {3.4}Диаграмма классов и компонентов программы}{46}{subsection.3.4}%
-\contentsline {subsubsection}{\numberline {3.4.1}Диаграмма классов}{46}{subsubsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4}Диаграмма классов и компонентов программы}{47}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}Диаграмма классов}{47}{subsubsection.3.4.1}%
 \contentsline {paragraph}{\numberline {3.4.1.1}Класс Model}{49}{paragraph.3.4.1.1}%
 \contentsline {paragraph}{\numberline {3.4.1.2}Класс Texture}{49}{paragraph.3.4.1.2}%
 \contentsline {paragraph}{\numberline {3.4.1.3}Класс Scene}{49}{paragraph.3.4.1.3}%
